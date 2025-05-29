@@ -428,7 +428,7 @@ to {
 
 .m-text{
     margin-top: 0px;
-    border-color: rgb(255, 1, 1);
+    border-color: rgba(255, 1, 1, 0);
     border-style: solid;
 }
 
