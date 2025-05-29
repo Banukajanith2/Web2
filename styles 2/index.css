@@ -427,26 +427,26 @@ to {
 }
 
 .m-text{
-    margin-top: 10px;
-    border-color: rgba(255, 1, 1, 0);
+    margin-top: 0px;
+    border-color: rgb(255, 1, 1);
     border-style: solid;
 }
 
 .big-sign{
-    font-size: 55px;
+    font-size: 60px;
 }
 
 .details1 {
 
     font-size: 20px;
-    padding-top: 20px;
+    padding-top: 0px;
     margin-bottom: 0px;
-    margin-left: 8px;
+    margin-left: 0px;
 }
 
 .details2 {
     font-size: 35px;
-    margin-top: -30px;
+    margin-top: -35px;
     margin-bottom: 0px;
     margin-left: -30px;
 
@@ -455,14 +455,14 @@ to {
 .details3 {
     margin-left: 30px;
     font-size: 35px;
-    margin-top: -22px; 
+    margin-top: -22px;
 }
 
 .m-text-middle{
     border-left: 3px solid #ffbd59;
     padding-left: 0px;
     margin-left: 50px;
-    margin-top: 15px;
+    margin-top: 5px;
     width: 220px;
 }
 
@@ -482,12 +482,12 @@ to {
 
 .m-socials {
     display: flex;
-    margin-top: -20px;
+    margin-top: -40px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     width: 100%;
-    padding-right: 70px;
+    padding-right: 50px;
     justify-content: space-evenly;
 }
 
@@ -523,6 +523,7 @@ to {
 .m-end-mobile-blob img{
     width: 100%;
     height: 150px;
+    z-index: 0;
 }
 
 }
